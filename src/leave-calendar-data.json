@@ -1,0 +1,136 @@
+{
+  "format": "leave-calendar/v1",
+  "exportedAt": "2026-11-08",
+  "days": {
+    "2026-12-09": {
+      "leave": "apl",
+      "title": "Mumbai (BOM) → Bangkok (BKK) Non-Stop AI 2337 (13:40–19:40) or 6E 1059 (14:00–19:50)",
+      "note": ""
+    },
+    "2026-12-14": {
+      "leave": "apl",
+      "title": "Bangkok (BKK) → Seoul (ICN) Non-Stop Thai Airways TG 652 (08:00–15:25 A350) or 1-Stop ZH 306+633",
+      "note": ""
+    },
+    "2027-02-26": {
+      "leave": "wfh",
+      "title": "Pack and Prep",
+      "note": ""
+    },
+    "2027-02-27": {
+      "leave": null,
+      "title": "Day 1: Fly BOM ➔ London (LHR)",
+      "note": ""
+    },
+    "2027-02-28": {
+      "leave": null,
+      "title": "Day 2: London (Westminster & Eye)",
+      "note": ""
+    },
+    "2027-03-01": {
+      "leave": "wfh",
+      "title": "Day 3: London (Afternoon Soho/British Museum)",
+      "note": ""
+    },
+    "2027-03-02": {
+      "leave": "wfh",
+      "title": "Day 4: London (Afternoon Tower Bridge/Borough)",
+      "note": ""
+    },
+    "2027-03-03": {
+      "leave": "sick",
+      "title": "Day 5: London (Full Day: Notting Hill/Camden)",
+      "note": ""
+    },
+    "2027-03-04": {
+      "leave": "sick",
+      "title": "Day 6: Eurostar London ➔ Paris (1 Night stop)",
+      "note": ""
+    },
+    "2027-03-05": {
+      "leave": "sick",
+      "title": "Day 7: Paris morning + TGV Lyria ➔ Switzerland",
+      "note": ""
+    },
+    "2027-03-06": {
+      "leave": null,
+      "title": "Day 8 (Swiss Day 1 - Pre-Anniv): Lucerne / Grindelwald",
+      "note": ""
+    },
+    "2027-03-07": {
+      "leave": null,
+      "title": "Day 9 (Swiss Day 2 - LUXURY): Interlaken / Montreux",
+      "note": ""
+    },
+    "2027-03-08": {
+      "leave": "apl",
+      "title": "Day 10 (Swiss Day 3 - LUXURY): Jungfraujoch / Alps",
+      "note": ""
+    },
+    "2027-03-09": {
+      "leave": "apl",
+      "title": "Day 11 (Swiss Day 4 - Post-Anniv): Zermatt / Matterhorn",
+      "note": ""
+    },
+    "2027-03-10": {
+      "leave": "apl",
+      "title": "Day 12: Eurail South: Zermatt/Brig ➔ Milan (Italy)",
+      "note": ""
+    },
+    "2027-03-11": {
+      "leave": "apl",
+      "title": "Day 13: Lake Como Day Trip or Milan ➔ Venice",
+      "note": ""
+    },
+    "2027-03-12": {
+      "leave": "apl",
+      "title": "Day 14: Venice ➔ High-Speed Rail to Florence",
+      "note": ""
+    },
+    "2027-03-13": {
+      "leave": null,
+      "title": "Day 15: Florence / Pisa ➔ Evening Train to Rome",
+      "note": ""
+    },
+    "2027-03-14": {
+      "leave": null,
+      "title": "Day 16: Rome (Colosseum & Vatican)",
+      "note": ""
+    },
+    "2027-03-15": {
+      "leave": "apl",
+      "title": "Day 17: Fly Rome (FCO) ➔ Mumbai (BOM)",
+      "note": ""
+    },
+    "2027-03-16": {
+      "leave": "apl",
+      "title": "Day 18: Land in Mumbai & Rest",
+      "note": ""
+    }
+  },
+  "hol": {},
+  "rec": {},
+  "settings": {
+    "aplPerMonth": 2,
+    "aplStart": "2026-01",
+    "sickPerYear": 15,
+    "wfhPerMonth": 2,
+    "weekStart": 1,
+    "weeklyOff": true
+  },
+  "adjust": {
+    "apl": {
+      "2026-11": {
+        "d": "2026-11-02",
+        "v": 11
+      }
+    },
+    "sick": {
+      "2026-11": {
+        "d": "2026-11-02",
+        "v": 11
+      }
+    },
+    "wfh": {}
+  }
+}
